@@ -22,8 +22,8 @@ avatar_image: /img/BTHeadshotSquare.JPG
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/in/bttouchton" # Add your linkedln handle
-github: "https://github.com/bttouchton/bttouchton.github.io"
+linkedln: "https://linkedln.com/in/briantouchton" # Add your linkedln handle
+github: "https://bttouchton.github.io"
 
 paginate: 6
 paginate_path: "/page/:num"
@@ -51,5 +51,6 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
