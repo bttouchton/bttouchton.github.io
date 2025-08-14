@@ -17,12 +17,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
 location: "Charlotte, NC"
-resume_url: "/docs/ResumeforBTouchton2025.docx"
-avatar_image: "/img/BTHeadshotSquare.JPG"
+resume_url: /docs/ResumeforBTouchton2025.docx
+avatar_image: /img/BTHeadshotSquare.JPG
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/in/briantouchton" # Add your linkedln handle
+linkedln: "https://linkedin.com/in/briantouchton" # Add your linkedln handle
 github: "https://bttouchton.github.io"
 
 paginate: 6
@@ -51,6 +51,7 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 
